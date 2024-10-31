@@ -1,0 +1,2 @@
+# Turn by Turn
+"Turn by Turn" is a one-versus-one turn-based combate game. Players adventure around a 2D grid collecting weapons, armor, and potions to eventually meet and battle on the field. The first player to down the other wins the game!
